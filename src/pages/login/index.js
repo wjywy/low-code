@@ -10,7 +10,6 @@ const App = () => {
 
     const onFinish = (values) => {
         navigate('/index')
-        // alert('登录成功！！低代码引擎，创造你想创造的!');
     };
 
     const onFinishFailed = () => {
